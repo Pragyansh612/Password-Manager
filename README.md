@@ -1,2 +1,4 @@
-# Password-Manager
-A Password Manager website made by React, Node js and saves your data in MongoDB. 
+To start the website, type these two commands
+
+npm run dev
+nodemon backend/index.js
